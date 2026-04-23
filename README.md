@@ -14,12 +14,21 @@ I chose to provide a deployed version of the project instead of recording a vide
 - API (JSON Server): `https://test-technique-sig.onrender.com`
 
 ## Technical Documentation
-The main technical documentation for this submission is available in `TECHNICAL_DECISIONS.md`.
+The main technical documentation for this submission is available in `DOCUMENT_TECHNIQUE.md`.
 
 It explains:
 - architecture choices
 - how the API is handled
 - the main difficulties encountered during implementation
+
+
+## Screenshots
+
+### Candidate list
+![Candidate list](./screenshots/list-page.png)
+
+### Candidate detail
+![Candidate detail](./screenshots/detail-page.png)
 
 ## Stack
 - Vue 3
