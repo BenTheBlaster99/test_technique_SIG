@@ -84,13 +84,13 @@ Main endpoints used:
 
 ## Time Tracking
 Realistic time spent on this submission:
-- Reading and planning: 45 minutes
-- Scaffolding and architecture: 55 minutes
-- List page: 2 hours
-- Detail page and updates: 1 hour 20 minutes
+- Reading and planning: 1 hour
+- Project setup and architecture: 1 hour 15 minutes
+- List page, filters, and pagination: 2 hours 15 minutes
+- Detail page and update actions: 1 hour 20 minutes
 - Documentation and cleanup: 40 minutes
 
-Estimated total: 5 hours 40 minutes
+Estimated total: 6 hours 30 minutes
 
 ## If I Had More Time
 - Add focused unit tests around the stores and API layer
