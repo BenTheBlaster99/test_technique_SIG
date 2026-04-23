@@ -5,10 +5,6 @@
         <p class="brand-kicker">Frontend technical test</p>
         <h1>Candidate Management</h1>
       </div>
-
-      <p class="brand-copy">
-        Vue 3 dashboard connected to the provided JSON Server API.
-      </p>
     </header>
 
     <main class="app-content">

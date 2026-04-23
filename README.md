@@ -5,8 +5,21 @@ Vue 3 technical test implementation for a recruitment workflow. The app consumes
 ## Repository Structure
 - `db.json`: provided mock database for JSON Server
 - `app/`: Vue 3 + TypeScript application
-- `PROJECT_NOTES.md`: plain-English brief summary and build notes
-- `TECHNICAL_DECISIONS.md`: short explanation of architecture and trade-offs
+- `TECHNICAL_DECISIONS.md`: technical documentation covering architecture choices, API handling, and difficulties encountered
+
+## Live Demo
+I chose to provide a deployed version of the project instead of recording a video demo.
+
+- Frontend: `https://test-technique-sig.vercel.app`
+- API (JSON Server): `https://test-technique-sig.onrender.com`
+
+## Technical Documentation
+The main technical documentation for this submission is available in `TECHNICAL_DECISIONS.md`.
+
+It explains:
+- architecture choices
+- how the API is handled
+- the main difficulties encountered during implementation
 
 ## Stack
 - Vue 3
